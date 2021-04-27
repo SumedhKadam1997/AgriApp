@@ -4,7 +4,7 @@
 - pip install the requirements.txt file to install all the dependencies.
 - Run the app.py file in terminal to start flask server.
 
-## Features of the AgriApp
+## Features of the AgriApp:
 - Creates a new user.
 - Log In the user.
 - Admin view for the ADMIN User.
